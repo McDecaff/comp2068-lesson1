@@ -1,0 +1,10 @@
+beer
+whiskey
+vodka
+rum
+rye
+mead
+gin
+tequila
+bourbon
+wine
